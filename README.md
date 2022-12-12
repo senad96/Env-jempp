@@ -2,6 +2,11 @@
 
 Official code for the paper [JEM++: Improved Techniques for Training JEM](https://arxiv.org/abs/2109.09032)
 
+
+## Added the file main.py and script.sh in order to run the code
+
+
+
 ## Usage
 
 ### Prerequisite 
